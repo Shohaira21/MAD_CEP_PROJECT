@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505191385572",
+    "project_id": "flutbo",
+    "storage_bucket": "flutbo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505191385572:android:0e677c6fffd96b5d1c5ff1",
+        "android_client_info": {
+          "package_name": "com.example.blogging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx63kVo1p5xigsqurmeUXxSeHGp6D90A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
